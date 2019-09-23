@@ -6,8 +6,7 @@ import Login from './containers/Login';
 import PlanetSearch from './containers/PlanetSearch';
 import {
     BrowserRouter as Router,
-    Route,
-    Link
+    Route
 } from 'react-router-dom'
 import store from './redux/store/store';
 import './App.css';
